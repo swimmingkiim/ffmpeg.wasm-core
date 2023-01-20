@@ -1,4 +1,4 @@
-FFmpeg.wasm Core
+FFmpeg.wasm Core!
 ================
 
 [![Node Version](https://img.shields.io/node/v/@ffmpeg/ffmpeg.svg)](https://img.shields.io/node/v/@ffmpeg/ffmpeg.svg)
